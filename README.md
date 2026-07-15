@@ -57,7 +57,6 @@ This project analyzes student placement data to identify the factors that influe
 - Skills vs Placement
 - Internship Analysis
 - Department-wise Placement
-- Salary Distribution
 
 ---
 
