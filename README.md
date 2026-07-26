@@ -102,4 +102,4 @@ student-placement-analysis
 
 **Ritik Singh**
 
-⭐ If you found this project useful, please consider starring the repository.
+If you found this project useful, consider giving it a star ⭐.
